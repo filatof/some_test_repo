@@ -30,6 +30,6 @@ def lcs(A, B):
         print(x)
     return F[-1][-1]
 
-A = "колобок"
-B = "молоко"
+A = "fish"
+B = "dish"
 print(lcs(A, B))
