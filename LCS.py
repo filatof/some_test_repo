@@ -31,5 +31,5 @@ def lcs(A, B):
     return F[-1][-1]
 
 A = "fish"
-B = "dish"
+B = "fish"
 print(lcs(A, B))
