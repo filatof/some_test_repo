@@ -29,3 +29,8 @@ def lcs(A, B):
     for x in F:
         print(x)
     return F[-1][-1]
+
+A = "колобок"
+B = "молоко"
+
+print(lcs(A, B))
