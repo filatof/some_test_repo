@@ -32,5 +32,4 @@ def lcs(A, B):
 
 A = "колобок"
 B = "молоко"
-
 print(lcs(A, B))
